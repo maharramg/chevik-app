@@ -1,0 +1,15 @@
+{
+    "@@locale": "az",
+    "startupAppBarTitle": "Başlanğıc Proyekti",
+    "@startupAppBarTitle": {
+        "description": "appbar title"
+    },
+    "body": "Salam Dunya!",
+    "@body": {
+        "description": "body text"
+    },
+    "settingsTitle": "Parametrlər",
+    "@settingsTitle": {
+        "description": "settings title"
+    }
+}
