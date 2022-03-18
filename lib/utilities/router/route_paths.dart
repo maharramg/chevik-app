@@ -6,4 +6,6 @@ class RoutePaths {
 
   static const ROOT = '/';
   static const SETTINGS = 'settings';
+  static const LOGIN = 'login';
+  static const REGISTRATION = 'registration';
 }

@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:start_up/utilities/constants/locale_keys.dart';
 
 import '../../utilities/constants/constants.dart';
 import '../../utilities/router/router.dart';

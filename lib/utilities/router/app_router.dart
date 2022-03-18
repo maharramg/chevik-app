@@ -11,6 +11,10 @@ class AppRouter {
         return RootScreen().route;
       case RoutePaths.SETTINGS:
         return SettingsScreen().route;
+      case RoutePaths.LOGIN:
+        return LoginScreen().route;
+      case RoutePaths.REGISTRATION:
+        return RegistrationScreen().route;
       default:
         return MaterialPageRoute(
           builder: (_) => Scaffold(
